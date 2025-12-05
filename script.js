@@ -920,7 +920,7 @@ function initSkillsAnimation() {
 
 function initEnesChat() {
   // const BACKEND_URL = "https://portfolio-backend-px1t.onrender.com";
-  const BACKEND_URL = "http://localhost:5000/api/assistant";
+  const BACKEND_URL = "https://portfolio-backend-px1t.onrender.com/ask";
   let chatHistory = [];
 
   const toggleBtn = document.getElementById('enes-chat-toggle');
