@@ -919,6 +919,7 @@ function initSkillsAnimation() {
 }
 
 function initEnesChat() {
+  // const BACKEND_URL = "https://portfolio-backend-px1t.onrender.com";
   const BACKEND_URL = "http://localhost:5000/api/assistant";
   let chatHistory = [];
 
